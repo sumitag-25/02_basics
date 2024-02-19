@@ -10,7 +10,6 @@
 } )("Sumit");
 
 
-
 (function extraFunction(){
     console.log(`This is the last function of IIFE here`)
 })();

@@ -12,7 +12,6 @@ function one(){
 
 // one()
 
-
 if(true){
     const username = "sumitverma"
 
