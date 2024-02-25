@@ -30,7 +30,7 @@ const chai = () => {
     console.log(this.username)
 }
 
-// chai()
+chai()
 // Explicet return
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
